@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,EAAE,CAAC;EACC,eAAe,EAAE,IAAI;EACrB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,MAAM;EAChB,WAAW,EAAE,KAAK;EACpB,UAAU,EAAE,IAAI;CACf;;AAED,AAAA,EAAE,CAAC;EACF,UAAU,EAAE,KAAK;CAEjB;;AAED,AAAA,EAAE,CAAC,CAAC,CAAC;EAEH,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,SAAS;EAClB,eAAe,EAAE,IAAI;CACtB",
+    "sources": [
+        "style.scss",
+        "_menu.scss",
+        "_clinic.scss",
+        "_doctor.scss",
+        "_contact.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
